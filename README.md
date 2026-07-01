@@ -1,0 +1,1 @@
+# test_adequacy_approach_automated_E2E_web_test
